@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProyectoCatalogo</string>
+    <string name="Search">Buscar</string>
+    <string name="Boton">Boton de cambio</string>
+</resources>
